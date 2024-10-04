@@ -1,0 +1,7 @@
+# Ouvrir le terminal
+# Se déplacer jusqu'au dossier contenant le fichier main.py
+cd /chemin/vers/votre/dossier/de/projet
+
+# Exécuter le programme Python
+python3 main.py
+
